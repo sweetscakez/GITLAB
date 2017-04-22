@@ -44,5 +44,7 @@ void main()
     printf("\nContinue (YES for Yes)? ");
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
-  printf("See you again\n");
+
+  printf("Goodbyee\n");
+
 }
